@@ -10,4 +10,6 @@ datalad install https://github.com/TheAxonLab/defacing-and-qc-ixi-reports.git
 
 ## When using this dataset please cite:
 [1]: Hill, D., S. Williams, D. Hawkes, and S. Smith. 2006. “IXI Dataset – Brain Development.” 2006. <https://brain-development.org/ixi-dataset/>.
+
+## References
 [2]: Gulban, Omer Faruk, Dylan Nielson, Russ Poldrack, John Lee, Chris Gorgolewski, Vanessa Sochat, and Satrajit Ghosh. 2019. “Poldracklab/Pydeface: V2.0.0.” Zenodo. doi:[10.5281/zenodo.3524401](https://doi.org/10.5281/zenodo.3524401).
