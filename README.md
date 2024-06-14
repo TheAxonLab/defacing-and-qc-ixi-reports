@@ -5,7 +5,7 @@ The IXI dataset was defaced using PyDeface <sup>[2]</sup>. The MRIQC reports wer
 How to download this dataset (requires DataLad):
 
 ```
-datalad install https://github.com/TheAxonLab/defacing-and-qc-reports.git
+datalad install https://github.com/TheAxonLab/defacing-and-qc-ixi-reports.git
 ```
 
 ## When using this dataset please cite:
